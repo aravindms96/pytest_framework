@@ -1,0 +1,10 @@
+[default]
+page_title = "Homepage"
+
+[test_validate_user_details_submit_ContactInfo]
+prefix = "Mr"
+firstName = "name"
+lastName = "Lname"
+dob = "12/02/1990"
+email = "emailid@gmail.com"
+mobileNum = "0612345678"

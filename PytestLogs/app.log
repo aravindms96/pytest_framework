@@ -1,0 +1,125 @@
+08-05-25 17:58:25 - INFO - Bootstrap Master Initialize...
+08-05-25 17:58:25 - DEBUG - Reading test data from - data\testdata.toml
+08-05-25 17:58:25 - DEBUG - pytest_sessionstart hook ended
+08-05-25 17:58:25 - DEBUG - session bootstrap start
+08-05-25 17:58:25 - DEBUG - function initialize
+08-05-25 17:58:25 - DEBUG - test_validate_user_is_in_Homepage
+08-05-25 17:58:25 - INFO - Initiating test case - test_validate_user_is_in_Homepage
+08-05-25 17:58:25 - DEBUG - Switching current test case data to - test_validate_user_is_in_Homepage
+08-05-25 17:58:25 - INFO - test data is mapped
+08-05-25 17:58:25 - DEBUG - Switching current driver to - FR_Credit
+08-05-25 17:58:25 - DEBUG - driver dict is {'driverName': 'FR_Credit', 'driverType': 'selenium', 'driver': None}
+08-05-25 17:58:25 - DEBUG - {'DEFAULT_SETTINGS_PATHS': ['settings.py', 'settings.toml', 'settings.tml', 'settings.yaml', 'settings.yml', 'settings.ini', 'settings.conf', 'settings.properties', 'settings.json', '.secrets.py', '.secrets.toml', '.secrets.tml', '.secrets.yaml', '.secrets.yml', '.secrets.ini', '.secrets.conf', '.secrets.properties', '.secrets.json'], 'FRAMEWORK': 'pytest', 'LOGLEVEL': 'debug', 'BOOTSTRAPSCOPE': 'session', 'DRIVERTYPE': [['FR_Credit', 'selenium']], 'TESTDATAPATH': 'data\\testdata.toml', 'BROWSER': 'Chrome', 'APPURL': 'https://www.americanexpress.com/fr-fr/?inav=NavLogo'}
+08-05-25 17:58:25 - DEBUG - Launching selenium driver
+08-05-25 17:58:25 - DEBUG - chromedriver path is C:\Users\aravind.megala\py_framework\FR_Credit_Card_UI\utils\chromedriver-win64\chromedriver.exe
+08-05-25 17:58:29 - DEBUG - Adding driver to cache
+08-05-25 17:58:29 - DEBUG - drivers list is [{'driverName': 'FR_Credit', 'driverType': 'selenium', 'driver': <selenium.webdriver.chrome.webdriver.WebDriver (session="acb9d3a52989821f1452a931f2907dec")>}]
+08-05-25 17:58:29 - INFO - 1 count in initialize
+08-05-25 17:58:35 - DEBUG - Trying to get test data: page_title
+08-05-25 17:58:35 - DEBUG - Test data not found for test_validate_user_is_in_Homepage, trying to get from default
+08-05-25 17:58:35 - DEBUG - Homepage
+08-05-25 17:58:35 - DEBUG - Home page is loaded successfully
+08-05-25 17:58:35 - DEBUG - function initialize
+08-05-25 17:58:35 - DEBUG - test_validate_user_navto_AllCards
+08-05-25 17:58:35 - INFO - Initiating test case - test_validate_user_navto_AllCards
+08-05-25 17:58:35 - DEBUG - Switching current test case data to - test_validate_user_navto_AllCards
+08-05-25 17:58:35 - INFO - test data is mapped
+08-05-25 17:58:35 - DEBUG - Switching current driver to - FR_Credit
+08-05-25 17:58:35 - DEBUG - driver dict is {'driverName': 'FR_Credit', 'driverType': 'selenium', 'driver': <selenium.webdriver.chrome.webdriver.WebDriver (session="acb9d3a52989821f1452a931f2907dec")>}
+08-05-25 17:58:35 - DEBUG - drivers list is [{'driverName': 'FR_Credit', 'driverType': 'selenium', 'driver': <selenium.webdriver.chrome.webdriver.WebDriver (session="acb9d3a52989821f1452a931f2907dec")>}]
+08-05-25 17:58:35 - INFO - 2 count in initialize
+08-05-25 17:58:42 - DEBUG - Les Cartes AMERICAN EXPRESS button clicked successfully
+08-05-25 17:58:42 - DEBUG - All cards page is loaded successfully
+08-05-25 17:58:42 - DEBUG - function initialize
+08-05-25 17:58:42 - DEBUG - test_validate_user_clicks_EnSaviorPlus_Btn
+08-05-25 17:58:42 - INFO - Initiating test case - test_validate_user_clicks_EnSaviorPlus_Btn
+08-05-25 17:58:42 - DEBUG - Switching current test case data to - test_validate_user_clicks_EnSaviorPlus_Btn
+08-05-25 17:58:42 - INFO - test data is mapped
+08-05-25 17:58:42 - DEBUG - Switching current driver to - FR_Credit
+08-05-25 17:58:42 - DEBUG - driver dict is {'driverName': 'FR_Credit', 'driverType': 'selenium', 'driver': <selenium.webdriver.chrome.webdriver.WebDriver (session="acb9d3a52989821f1452a931f2907dec")>}
+08-05-25 17:58:42 - DEBUG - drivers list is [{'driverName': 'FR_Credit', 'driverType': 'selenium', 'driver': <selenium.webdriver.chrome.webdriver.WebDriver (session="acb9d3a52989821f1452a931f2907dec")>}]
+08-05-25 17:58:42 - INFO - 3 count in initialize
+08-05-25 17:58:47 - DEBUG - En Savoir Plus button clicked successfully
+08-05-25 17:58:47 - DEBUG - All cards page is loaded successfully
+08-05-25 17:58:47 - DEBUG - function initialize
+08-05-25 17:58:47 - DEBUG - test_validate_user_clicks_demandez_votre_carte_Btn
+08-05-25 17:58:47 - INFO - Initiating test case - test_validate_user_clicks_demandez_votre_carte_Btn
+08-05-25 17:58:47 - DEBUG - Switching current test case data to - test_validate_user_clicks_demandez_votre_carte_Btn
+08-05-25 17:58:47 - INFO - test data is mapped
+08-05-25 17:58:47 - DEBUG - Switching current driver to - FR_Credit
+08-05-25 17:58:47 - DEBUG - driver dict is {'driverName': 'FR_Credit', 'driverType': 'selenium', 'driver': <selenium.webdriver.chrome.webdriver.WebDriver (session="acb9d3a52989821f1452a931f2907dec")>}
+08-05-25 17:58:47 - DEBUG - drivers list is [{'driverName': 'FR_Credit', 'driverType': 'selenium', 'driver': <selenium.webdriver.chrome.webdriver.WebDriver (session="acb9d3a52989821f1452a931f2907dec")>}]
+08-05-25 17:58:47 - INFO - 4 count in initialize
+08-05-25 17:58:50 - DEBUG - Demandez votre carte button clicked successfully
+08-05-25 17:58:50 - DEBUG - User details page is loaded successfully
+08-05-25 17:58:50 - DEBUG - function initialize
+08-05-25 17:58:50 - DEBUG - test_validate_user_details_Form_ErrMsgs
+08-05-25 17:58:50 - INFO - Initiating test case - test_validate_user_details_Form_ErrMsgs
+08-05-25 17:58:50 - DEBUG - Switching current test case data to - test_validate_user_details_Form_ErrMsgs
+08-05-25 17:58:50 - INFO - test data is mapped
+08-05-25 17:58:50 - DEBUG - Switching current driver to - FR_Credit
+08-05-25 17:58:50 - DEBUG - driver dict is {'driverName': 'FR_Credit', 'driverType': 'selenium', 'driver': <selenium.webdriver.chrome.webdriver.WebDriver (session="acb9d3a52989821f1452a931f2907dec")>}
+08-05-25 17:58:50 - DEBUG - drivers list is [{'driverName': 'FR_Credit', 'driverType': 'selenium', 'driver': <selenium.webdriver.chrome.webdriver.WebDriver (session="acb9d3a52989821f1452a931f2907dec")>}]
+08-05-25 17:58:50 - INFO - 5 count in initialize
+08-05-25 17:58:53 - DEBUG - Submit button clicked successfully
+08-05-25 17:58:53 - DEBUG - User details field error messages are validated successfully
+08-05-25 17:58:53 - DEBUG - function initialize
+08-05-25 17:58:53 - DEBUG - test_validate_user_details_submit_ContactInfo
+08-05-25 17:58:53 - INFO - Initiating test case - test_validate_user_details_submit_ContactInfo
+08-05-25 17:58:53 - DEBUG - Switching current test case data to - test_validate_user_details_submit_ContactInfo
+08-05-25 17:58:53 - INFO - test data is mapped
+08-05-25 17:58:53 - DEBUG - Switching current driver to - FR_Credit
+08-05-25 17:58:53 - DEBUG - driver dict is {'driverName': 'FR_Credit', 'driverType': 'selenium', 'driver': <selenium.webdriver.chrome.webdriver.WebDriver (session="acb9d3a52989821f1452a931f2907dec")>}
+08-05-25 17:58:53 - DEBUG - drivers list is [{'driverName': 'FR_Credit', 'driverType': 'selenium', 'driver': <selenium.webdriver.chrome.webdriver.WebDriver (session="acb9d3a52989821f1452a931f2907dec")>}]
+08-05-25 17:58:53 - INFO - 6 count in initialize
+08-05-25 17:58:54 - DEBUG - Trying to get test data: prefix
+08-05-25 17:58:54 - DEBUG - Trying to get test data: firstName
+08-05-25 17:58:54 - DEBUG - Trying to get test data: lastName
+08-05-25 17:58:55 - DEBUG - Trying to get test data: dob
+08-05-25 17:58:55 - DEBUG - Trying to get test data: email
+08-05-25 17:58:55 - DEBUG - Trying to get test data: mobileNum
+08-05-25 17:58:55 - DEBUG - User details are successfully
+08-05-25 17:58:59 - DEBUG - Submit button clicked successfully
+08-05-25 17:59:34 - ERROR - SearchFailure:
+Traceback (most recent call last):
+  File "C:\Users\aravind.megala\py_framework\FR_Credit_Card_UI\utils\webEl_Utit.py", line 70, in _searchElement
+    self._currentElement = wait.until(ec.presence_of_element_located((_locatorSwitcher(locator),val)))
+                           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A1FECF25+75717]
+	GetHandleVerifier [0x00007FF7A1FECF80+75808]
+	(No symbol) [0x00007FF7A1DB8F9A]
+	(No symbol) [0x00007FF7A1E0F4C6]
+	(No symbol) [0x00007FF7A1E0F77C]
+	(No symbol) [0x00007FF7A1E62577]
+	(No symbol) [0x00007FF7A1E373BF]
+	(No symbol) [0x00007FF7A1E5F39C]
+	(No symbol) [0x00007FF7A1E37153]
+	(No symbol) [0x00007FF7A1E00421]
+	(No symbol) [0x00007FF7A1E011B3]
+	GetHandleVerifier [0x00007FF7A22ED6FD+3223453]
+	GetHandleVerifier [0x00007FF7A22E7CA2+3200322]
+	GetHandleVerifier [0x00007FF7A2305AD3+3322739]
+	GetHandleVerifier [0x00007FF7A20069FA+180890]
+	GetHandleVerifier [0x00007FF7A200E0FF+211359]
+	GetHandleVerifier [0x00007FF7A1FF5274+109332]
+	GetHandleVerifier [0x00007FF7A1FF5422+109762]
+	GetHandleVerifier [0x00007FF7A1FDBA39+4825]
+	BaseThreadInitThunk [0x00007FF84929259D+29]
+	RtlUserThreadStart [0x00007FF84AD8AF38+40]
+
+08-05-25 17:59:34 - ERROR - ActionFailure-IsVisible:
+Traceback (most recent call last):
+  File "C:\Users\aravind.megala\py_framework\FR_Credit_Card_UI\utils\webEl_Utit.py", line 247, in IsVisible
+    found = self._currentElement.is_displayed()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'is_displayed'
+08-05-25 17:59:34 - DEBUG - Address info form is not visible
+08-05-25 17:59:34 - DEBUG - Address info form could not be loaded, error button is visible
+08-05-25 17:59:34 - DEBUG - Killing current driver - FR_Credit
+08-05-25 17:59:36 - DEBUG - session bootstrap end
+08-05-25 17:59:36 - DEBUG - pytest_sessionfinish hook
+08-05-25 17:59:36 - INFO - Bootstrap Master Cleanup...

@@ -1,0 +1,11 @@
+[default]
+framework = "pytest"
+loglevel = "debug"
+bootstrapscope = "session" 
+drivertype = [['FR_Credit','selenium']]
+testdatapath = "data\\testdata.toml"
+
+
+[seleniumsettings-FR_Credit]
+browser = "Chrome"
+appurl = "https://www.americanexpress.com/fr-fr/?inav=NavLogo"
